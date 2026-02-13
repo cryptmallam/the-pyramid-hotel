@@ -1,0 +1,7 @@
+{
+  "name": "The Pyramid Hotels - Luxury Stay in Kaduna",
+  "description": "A premium hotel website for The Pyramid Hotels in Kaduna, Nigeria, featuring elegant design, booking capabilities, and detailed facility highlights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
